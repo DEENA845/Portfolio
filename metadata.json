@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A scroll-driven, animated personal portfolio with smooth scrolling, interactive tilt, projects showcase, and contact suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
